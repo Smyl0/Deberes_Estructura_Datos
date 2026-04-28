@@ -72,8 +72,5 @@ build\arbol_bst.exe
 | 60 | Empleado 3 | Hoja |
 | 80 | Empleado 4 | Hoja |
 
-## Capturas
-*(Agregar capturas de pantalla aquí)*
-
 ## Conclusión
 El árbol BST permite organizar información jerárquica y realizar búsquedas eficientes en O(log n) promedio.
