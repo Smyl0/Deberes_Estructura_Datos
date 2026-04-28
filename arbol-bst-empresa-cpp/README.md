@@ -4,10 +4,7 @@
 Implementación de un Árbol Binario de Búsqueda (BST) en C++ para organizar empleados de una empresa usando un código numérico como clave.
 
 ## Integrantes
-- Apellido, Nombre 1
-- Apellido, Nombre 2
-- Apellido, Nombre 3
-- Apellido, Nombre 4
+- Pallo Jarrin Steven DavidS
 
 ## Estructura del proyecto
 ```
