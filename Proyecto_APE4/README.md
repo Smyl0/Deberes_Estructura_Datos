@@ -63,6 +63,8 @@ Algoritmo de camino mínimo. Usa una cola de prioridad ordenada por distancia ac
 
 ## Resultados
 
+![Ejecución del programa](captura/Ejecucion_Codigo.png)
+
 ```
 ===== BFS =====
 Universidad (uta) -> Comedor (comedor) -> Estadio (estadio)
@@ -103,10 +105,8 @@ Proyecto_APE4/
 ├── src/
 │   └── APE4_Grafos.java
 │
-├── capturas/
-│   ├── captura1.png
-│   ├── captura2.png
-│   └── captura3.png
+├── captura/
+│   └── Ejecucion_Codigo.png
 │
 └── README.md
 ```
